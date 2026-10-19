@@ -1,24 +1,17 @@
-# 🌟 Personal Portfolio  
+# biswajeet_
 
-Welcome to my personal portfolio, built with the power of **Flet Python**!  
+Personal portfolio: Python, SQL, Power BI and data science projects.
 
-## 🚀 About the Project  
+**Live:** [biswajeet.streamlit.app](https://biswajeet.streamlit.app/)
 
-This portfolio showcases my journey, skills, and projects as a developer. Built entirely using **Flet**, a new Python framework that allows developers to create **web, desktop, and mobile applications** without any prior frontend development experience, this project highlights the simplicity and flexibility of using Python for full-stack development.  
+## Stack
+Python · Streamlit · custom CSS · Streamlit Community Cloud
 
-### 🌟 Why Flet?  
-- **No Frontend Skills Needed**: Create responsive and interactive UIs entirely in Python.  
-- **Cross-Platform Development**: Build for web, desktop, and mobile with a unified codebase.  
-- **Integrated Components**: Pre-built widgets for animations, layouts, and interactivity.  
+## Run locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-### 🌐 Features of the Portfolio  
-- **Responsive Design**: Seamlessly adapts to different screen sizes.  
-- **Interactive Animations**: Typing effects and smooth transitions implemented directly in Python.  
-- **Cloudflare Deployment**: Hosted for fast and reliable access.  
-
-## 🔗 Check it Out  
-[Live Portfolio Link](https://biswajeet.pages.dev)  
-
-## 📜 Technologies Used  
-- **Flet Python**  
-- **Cloudflare** for hosting  
+## Edit content
+Projects, skills and research live at the top of `app.py`. The layout updates itself.
